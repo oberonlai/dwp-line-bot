@@ -1,0 +1,13 @@
+{
+    "name": "oberonlai/dwp-line-bot",
+    "require": {
+        "a7/autoload": "^2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oberonlai",
+            "email": "m615926@gmail.com"
+        }
+    ]
+}
