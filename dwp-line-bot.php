@@ -10,7 +10,7 @@
  * @wordpress-plugin
  * Plugin Name:       DWP LINE Bot
  * Plugin URI:        https://dailywp.dev
- * Description:       Connect the Chatbase API and LINE offical account with WordPress
+ * Description:       Connect the Chatbase API and LINE offcial account with WordPress
  * Version:           1.0.0
  * Author:            Daily WPdev.
  * Author URI:        https://dailywp.dev
